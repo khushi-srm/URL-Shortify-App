@@ -1,0 +1,1 @@
+A URL Shortener is a web application that converts long, complex URLs into shorter, more manageable links. These short links redirect users to the original long URLs when accessed. The goal of this project is to simplify link sharing, improve readability, and enable easier tracking or customization of links.
